@@ -7457,7 +7457,7 @@
                 version: "1.1",
                 xmlns: "http://www.w3.org/2000/svg",
                 xmlnsXlink: "http://www.w3.org/1999/xlink"
-            }, a.createElement("desc", null, "Created with getavataaars.com"), a.createElement("defs", null, a.createElement("circle", {
+            }, a.createElement("desc", null, "Created with faceuptobias.tk"), a.createElement("defs", null, a.createElement("circle", {
                 id: "path-1",
                 cx: "120",
                 cy: "120",
@@ -15296,7 +15296,7 @@
                     t = this.state,
                     n = t.displayComponentCode,
                     r = t.displayComponentImg,
-                    o = "Face Up to Bias ® - Generate your own avataaars!",
+                    o = "Face Up to Bias - Generate your own avataaars!",
                     a = "https://damp-bastion-28782.herokuapp.com/" + location.search;
                 return l.createElement("main", {
                     role: "main"
@@ -15306,7 +15306,7 @@
                     style: {
                         color: "#6A39D7"
                     }
-                }, "Face Up to Bias ®", l.createElement(s.a, {
+                }, "Face Up to Bias", l.createElement(s.a, {
                     type: "submit",
                     bsStyle: "secondary",
                     style: {
